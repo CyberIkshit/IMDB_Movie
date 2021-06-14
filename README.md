@@ -1,16 +1,27 @@
-# imdb_movie
+![image](https://user-images.githubusercontent.com/57153473/120053306-1146dd80-c047-11eb-94d2-2800aa541adb.png)
+# IMDB Movie
 
-A new Flutter project.
+A flutter project to ease your movie selection according to the IMDB rating using 3rd party API services.
 
-## Getting Started
+## Build Setup And Login Instructions
 
-This project is a starting point for a Flutter application.
+```bash
+# install project
+$ git clone https://github.com/CyberIkshit/IMDB_Movie.git
 
-A few resources to get you started if this is your first Flutter project:
+# open app directory
+$ cd IMDB_Movie
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# install dependencies
+$ pub get
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# build/run
+
+```
+## Snapshots
+
+App Demo-:
+![ezgif-3-aa97ca7d4c8a](https://user-images.githubusercontent.com/57153473/121900748-64a57500-cd43-11eb-9e6d-3bcad31c8435.gif)
+
+
+Still under development!!
